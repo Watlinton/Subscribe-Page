@@ -7,14 +7,5 @@ $(document).ready(function(){
             todayHighlight: true,
             autoclose: true,
         });
-    
-        //Animation:
-        // var animationName = 'animated swing';
-        // var aniamtionEnd = 'webkitAnimationEnd animationend oAnimationEnd mozAnimationEnd webkitAnimationEnd';
-
-        // $('#subscribeForm button').on('click',function(){
-        // 	$('#subscribeForm button').addClass(animationName).one(animationend,function(){
-        // 		$(this).removeClass(animationName);
-        // 	});
-        // });
+        
     });
